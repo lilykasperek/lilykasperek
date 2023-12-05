@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I am a senior at St. Lawrence University majoring in Statistics. 
+I am a senior at St. Lawrence University majoring in Statistics. My most recent project is an 8-week long fellowship creating a Shiny App for visualizing student course evaluation data. Repositories from classes I have taken include CS-219 (Techniques of Computer Science) and STAT-4005 (Data Visualization). 
+
+- 🔭 I’m currently working on my final project for STAT-313 (Advanced Linear Models) in RStudio. I am creating a shiny app for exploratory analysis and developing multi-level models to predict Wilks scores using a Powerlifting data set. 
+- 📫 How to reach me: ltkasp20@stlawu.edu
+- 😄 Pronouns: She/Her/Hers
 
 <!--
 **lilykasperek/lilykasperek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
